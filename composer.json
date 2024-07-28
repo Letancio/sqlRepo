@@ -1,0 +1,19 @@
+{
+    "name": "snipe/sql-repo",
+    "description": "sistema de dicas sql",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Snipe\\SqlRepo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Letancio Marinho",
+            "email": "61944081+Letancio@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
